@@ -1,4 +1,4 @@
-# Scantron-scanner-and-grader# Scantron-scanner-and-grader
+# Scantron-scanner-and-grader
 I have implemented an algorithm which is basically a scantron grader. I have used OpenCV for the same. With minor tweekings in this code, this algorithm can actually be utilized for real world purposes. 
 
 ![test2](https://user-images.githubusercontent.com/54478610/97795492-41c3b780-1bdd-11eb-8851-dba692bcb44f.jpg)                
